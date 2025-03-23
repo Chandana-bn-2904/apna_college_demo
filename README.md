@@ -1,4 +1,4 @@
 # apna_college_demo
 this my fist repo
-author -chandana B n 
+author -chandana B N 
 
